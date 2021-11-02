@@ -17,7 +17,7 @@ They would also like to request that you include this line in your own software 
 -------
 ```
 import crease
-crease.getstripped(example_url)
+crease.get_stripped(example_url)
 ```
 
 # Notice
