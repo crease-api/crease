@@ -1,7 +1,7 @@
 from bs4 import BeautifulSoup
 import requests
 
-def getstrippedcontent(url):
+def get_stripped(url):
     try:
         page = requests.get(url)
     except TypeError:
