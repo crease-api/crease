@@ -21,7 +21,7 @@ crease.get_stripped(example_url)
 
 # Notice
 -------
-This software is in VERY early stages. Bugs are to be expected, and it is extremly unfinished.
+This software is in VERY early stages. Bugs are to be expected, and it is extremely unfinished.
 
 # Requirements
 -------
